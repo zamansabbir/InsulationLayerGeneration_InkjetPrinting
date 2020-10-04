@@ -4,5 +4,4 @@ design tools available. Usually circuits are designed using graphics editor (for
 optimized (in terms of ink usage) is nessecary to print another layer on top. For mulitlayer design, insulation layer generation is laborsome and tedious. This project
 helps the designer to make multilayer circuit design printable by Inkjet printer. 
 ## Input: Gerber files of signal layers designed by traditional PCB design tools. It makes signal layer generation fast, easy and reliable
-## Output: 1 bit bitmap images (print format for inkjet printers) of input signal layers and the insulation layer automatically generated based on the input signal
-layer design. 
+## Output: 1 bit bitmap images (print format for inkjet printers) of input signal layers and the insulation layer automatically generated based on the input signal layer design. 
