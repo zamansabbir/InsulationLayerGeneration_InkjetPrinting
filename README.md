@@ -20,9 +20,12 @@ Once the signal layer is designed by tradition PCB design tools, user generate g
 <figcaption>Figure: Algorithm of single bit bitmap image generation of signal layer.</figcaption>
 
 ## Example of signal layer bitmap generated from gerber files
-To give the traces flexibility features, traces were generated using zigzag type continous traces. It is not availabe in traditional PCB design tools.  
+To give the traces flexibility features, traces were generated using zigzag type continous traces. It is not availabe in traditional PCB design tools. 
+<img src="https://github.com/zamansabbir/InsulationLayerGeneration_InkjetPrinting/blob/main/images/Picture3.png" width="60%">.
+<figcaption>Figure: Example of single bit bitmap image generation of signal layer with solid traces.</figcaption>
+
 <img src="https://github.com/zamansabbir/InsulationLayerGeneration_InkjetPrinting/blob/main/images/signal_layer.png" width="60%">.
-<figcaption>Figure: Example of single bit bitmap image generation of signal layer.</figcaption>
+<figcaption>Figure: Example of single bit bitmap image generation of signal layer with fringed/zigzag traces to extend strechebility of traces.</figcaption>
 
 
 # Algorithm for insulation layer generation
